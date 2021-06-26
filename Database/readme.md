@@ -18,3 +18,5 @@
 |13|[Game Play Analysis 1](https://leetcode.com/problems/game-play-analysis-i/)|[MySQL](./gamePlayOne.sql) | Easy|[511](https://leetcode.com/problems/game-play-analysis-i/)
 |14|[Game Play Analysis 2](https://leetcode.com/problems/game-play-analysis-ii/)|[MySQL](./gamePlayTwo.sql) | Easy|[512](https://leetcode.com/problems/game-play-analysis-ii/)
 |15|[Game Play Analysis 3](https://leetcode.com/problems/game-play-analysis-iii/)|[MySQL](./gamePlayThree.sql) | Medium|[534](https://leetcode.com/problems/game-play-analysis-iii/)
+|16|[Game Play Analysis 4](https://leetcode.com/problems/game-play-analysis-iv/)|[MySQL](./gamePlayFour.sql) | Medium|[550](https://leetcode.com/problems/game-play-analysis-iv/)
+|17|[Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)|[MySQL](./managerFiveDirect.sql) | Medium|[570](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)
